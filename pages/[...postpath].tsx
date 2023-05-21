@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://www.highrevenuegate.com/g02dgsu0b6?key=7421a7cc705cdf79170a437c3d359057` 
+					`https://fea-guru.vercel.app/fc-krasnodar` 
 				}`,
 			},
 		};
