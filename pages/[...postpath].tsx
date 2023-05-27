@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://fea-guru.vercel.app/fc-krasnodar` 
+					`https://featureposts.com` 
 				}`,
 			},
 		};
